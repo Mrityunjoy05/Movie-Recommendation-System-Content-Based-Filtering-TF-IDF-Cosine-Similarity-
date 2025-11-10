@@ -65,7 +65,6 @@ Although content-based models do not use traditional ML metrics (like accuracy o
 * **Pandas, NumPy**: Data cleaning, preprocessing, and feature engineering
 * **NLTK**: Natural language text preprocessing (tokenization, lemmatization, stopword removal)
 * **Scikit-learn**: TF-IDF vectorization and Cosine Similarity computation
-* **Matplotlib, Seaborn**: Data visualization and exploratory analysis
 
 ## Conclusion
 
